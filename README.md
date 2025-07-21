@@ -30,9 +30,8 @@ This interactive Shiny dashboard visualizes 2024 NFL play-by-play data to help c
 
 ---
 
-## 🛠️ How to Run Locally
+👤 Author
 
-1. Clone the repository
-   ```bash
-   git clone https://github.com/akhimass/NFLShinyReportApp.git
-   cd NFLShinyReportApp
+Akshith Chappidi
+UNC Charlotte | Sports Analytics | Bioinformatics | Pre-Med
+📧 achappid@charlotte.edu
